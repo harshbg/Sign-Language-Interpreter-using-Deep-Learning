@@ -1,0 +1,7 @@
+h5py
+numpy
+scikit-learn
+sklearn
+keras
+opencv-python
+pyttsx3
