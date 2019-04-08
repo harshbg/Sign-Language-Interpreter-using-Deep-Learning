@@ -1,5 +1,5 @@
 # Sign Language Interpreter using Deep Learning
-> A live sign language interpreter using live video feed from the camera. 
+> A sign language interpreter using live video feed from the camera. 
 The project was completed in 24 hours as part of final HackUNT19, the University of North Texas's annual Hackathon.
 
 ## Table of contents
@@ -16,9 +16,8 @@ The project was completed in 24 hours as part of final HackUNT19, the University
 
 ## General info
 
-The theme at HACK UNT 19 was to use technology to improve accessibility by finding a creative solution to benefit the lives of those with disability. 
+The theme at HACK UNT 19 was to use technology to improve accessibility by finding a creative solution to benefit the lives of those with a disability. 
 We wanted to make it easy for 70 million deaf people across the world to be independent of translators for there daily communication needs, so we designed the app to work as a personal translator 24*7 for the deaf people.
-
 
 ## Screenshots
 ![Example screenshot](./img/Capture1.PNG)
@@ -34,22 +33,22 @@ We wanted to make it easy for 70 million deaf people across the world to be inde
 
 ## Setup
 
-* Use comand promt to setup environment by using requirements_cpu.txt and requirements_gpu.txt  
+* Use comand promt to setup environment by using requirements_cpu.txt and requirements_gpu.txt files. 
+ 
 `pyton -m pip r using requirements_cpu.txt`
 
 This will help you in installing all the libraries required for the project.
 
-
 ## Process
 
-* Run set_hand_hist.py to set the hand histogram for creating gestures. 
-* Once you get a good histogram, save it in the code folder, or you can use the histogram created by us that can be found [here]().
-* Added gestures and lable them using OpenCV which uses webcam feed by running `create_gestures.py` and stores them in a database. Alternately, you can use the gestures created by us [here]()
-* Add different variations to the captured gestures by flipping all the images by uing `flip_images.py`
+* Run `set_hand_hist.py` to set the hand histogram for creating gestures. 
+* Once you get a good histogram, save it in the code folder, or you can use the histogram created by us that can be found [here](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning/blob/master/Code/hist).
+* Added gestures and label them using OpenCV which uses webcam feed. by running `create_gestures.py` and stores them in a database. Alternately, you can use the gestures created by us [here]().
+* Add different variations to the captured gestures by flipping all the images by using `flip_images.py`.
 * Run `load_images.py` to split all the captured gestures into training, validation and test set. 
-* To view all the gestures, run `display_all_gestures.py` 
-* Train the model using Keras by running `cnn_keras.py` 
-* Run `fun_util.py`. This will open up tghe gesture recognition window which will use your webcam to interpret the trained American Sign Language gestures.  
+* To view all the gestures, run `display_all_gestures.py` .
+* Train the model using Keras by running `cnn_keras.py`.
+* Run `fun_util.py`. This will open up the gesture recognition window which will use your webcam to interpret the trained American Sign Language gestures.  
 
 ## Code Examples
 
@@ -138,7 +137,7 @@ K.clear_session();
 ## Features
 Our model was able to predict the 44 characters in the ASL with a prediction accuracy >95%.
 
-To-do list:
+Features that can be added:
 * Deploy the project on cloud and create an API for using it.
 * Increase the vocabulary of our model
 * Incorporate feedback mechanism to make the model more robust
