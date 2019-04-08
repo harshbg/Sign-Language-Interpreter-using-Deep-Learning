@@ -1,5 +1,6 @@
 # Sign Language Interpreter using Deep Learning
-> Here goes your awesome project description!
+> A live sign language interpreter using live video feed from the camera. 
+The project was completed in 24 hours as part of final HackUNT19, the University of North Texas's annual Hackathon.
 
 ## Table of contents
 * [General info](#general-info)
@@ -14,18 +15,21 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+
+The theme at HACK UNT 19 was to use technology to improve accessibility by finding a creative solution to benefit the lives of those with disability. 
+We wanted to make it easy for 70 million deaf people across the world to be independent of translators for there daily communication needs.
+
 
 ## Screenshots
-![Example screenshot](./img/Capture1.PNG)
+![Example screenshot](./img/Capture.PNG)
 ![Example screenshot](./img/Capture.PNG)
 ![Example screenshot](./img/Capture2.PNG)
 ![Example screenshot](./img/Capture3.PNG)
 
 ## Technologies and Tools
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Python - version 3.5
+* TensorFlow
+* Keras
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
@@ -50,13 +54,10 @@ To-do list:
 * Wow improvement to be done 2
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
-
-## Inspiration
-Add here credits. Project inspired by..., based on...
+Project is: _in progress_. Although we did finish the project and make a su and why?
 
 ## Contact
-Created by me and my teammates [Siddharth Oza](https://github.com/siddharthoza), [Ashish Sharma](https://github.com/ashish1993utd), and [Manish Shukla]().
+Created by me and my teammates [Siddharth Oza](https://github.com/siddharthoza), [Ashish Sharma](https://github.com/ashish1993utd), and [Manish Shukla](https://github.com/Manishms18).
 
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
 just want to shoot a question, please feel free to connect with me on <a href="hello@gupta-harsh.com" target="_blank">email</a>, 
