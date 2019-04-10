@@ -44,22 +44,22 @@ We wanted to make it easy for 70 million deaf people across the world to be inde
 
 ## Setup
 
-* Use comand promt to setup environment by using requirements_cpu.txt and requirements_gpu.txt files. 
+* Use comand promt to setup environment by using install_packages.txt and install_packages_gpu.txt files. 
  
-`pyton -m pip r using requirements_cpu.txt`
+`pyton -m pip r install_packages.txt`
 
 This will help you in installing all the libraries required for the project.
 
 ## Process
 
-* Run `set_hand_hist.py` to set the hand histogram for creating gestures. 
+* Run `set_hand_histogram.py` to set the hand histogram for creating gestures. 
 * Once you get a good histogram, save it in the code folder, or you can use the histogram created by us that can be found [here](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning/blob/master/Code/hist).
 * Added gestures and label them using OpenCV which uses webcam feed. by running `create_gestures.py` and stores them in a database. Alternately, you can use the gestures created by us [here](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning/tree/master/Code).
-* Add different variations to the captured gestures by flipping all the images by using `flip_images.py`.
+* Add different variations to the captured gestures by flipping all the images by using `Rotate_images.py`.
 * Run `load_images.py` to split all the captured gestures into training, validation and test set. 
-* To view all the gestures, run `display_all_gestures.py` .
-* Train the model using Keras by running `cnn_keras.py`.
-* Run `fun_util.py`. This will open up the gesture recognition window which will use your webcam to interpret the trained American Sign Language gestures.  
+* To view all the gestures, run `display_gestures.py` .
+* Train the model using Keras by running `cnn_model_train.py`.
+* Run `final.py`. This will open up the gesture recognition window which will use your webcam to interpret the trained American Sign Language gestures.  
 
 ## Code Examples
 
