@@ -20,8 +20,14 @@ The theme at HACK UNT 19 was to use technology to improve accessibility by findi
 We wanted to make it easy for 70 million deaf people across the world to be independent of translators for there daily communication needs, so we designed the app to work as a personal translator 24*7 for the deaf people.
 
 ## Demo
-![Example screenshot](./img/demo.gif)
+![Example screenshot](./img/demo4.gif)
+
+
+
 ![Example screenshot](./img/demo2.gif)
+
+
+
 ![Example screenshot](./img/demo3.gif)
 
 
