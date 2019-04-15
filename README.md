@@ -1,19 +1,18 @@
 
-[![Build Status][build-shield]]()
+
 [![Contributors][contributors-shield]]()
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
- ![GitHub contributors](https://img.shields.io/github/contributors/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)
+![GitHub contributors](https://img.shields.io/github/contributors/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)
+[![GitHub](https://img.shields.io/github/license/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)](https://www.youtube.com/watch?v=gHdYEZA50KE)
 
 
 [build-shield]: https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square
-
-[license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg
+[license-shield]: https://img.shields.io/github/license/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg
 [license-url]: https://choosealicense.com/licenses/mit
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]:  http://www.linkedin.com/in/siddharthoza
-[product-screenshot]: https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/screenshot.png
+
 
 # Sign Language Interpreter using Deep Learning
 > A sign language interpreter using live video feed from the camera. 
