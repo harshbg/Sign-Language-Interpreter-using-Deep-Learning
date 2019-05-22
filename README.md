@@ -1,6 +1,9 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)
+![Language]https://img.shields.io/github/languages/top/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg
 [![GitHub](https://img.shields.io/github/license/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)](https://choosealicense.com/licenses/mit)
 [![HitCount](http://hits.dwyl.io/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)](http://hits.dwyl.io/harshbg/Sign-Language-Interpreter-using-Deep-Learning)
+![RepoSize]https://img.shields.io/github/repo-size/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg?color=yellow
+
 # Sign Language Interpreter using Deep Learning
 > A sign language interpreter using live video feed from the camera. 
 The project was completed in 24 hours as part of HackUNT-19, the University of North Texas's annual Hackathon. You can view the project demo on [YouTube](http://bit.ly/30xYgT8).
@@ -171,3 +174,5 @@ just want to shoot a question, please feel free to connect with me on <a href="h
 <a href="http://bit.ly/2uOIUeo" target="_blank">LinkedIn</a>, or 
 <a href="http://bit.ly/2CZv1i5" target="_blank">Twitter</a>. 
 My other projects can be found [here](http://bit.ly/2UlyFgC).
+
+[![HitCount](https://img.shields.io/github/followers/harshbg.svg?style=social)](http://hits.dwyl.io/harshbg/Sign-Language-Interpreter-using-Deep-Learning)
