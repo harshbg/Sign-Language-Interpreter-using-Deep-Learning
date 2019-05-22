@@ -3,7 +3,7 @@
 [![HitCount](http://hits.dwyl.io/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)](http://hits.dwyl.io/harshbg/Sign-Language-Interpreter-using-Deep-Learning)
 # Sign Language Interpreter using Deep Learning
 > A sign language interpreter using live video feed from the camera. 
-The project was completed in 24 hours as part of HackUNT-19, the University of North Texas's annual Hackathon. You can view the project demo on [YouTube](http://bit.ly/2Iaz2UK).
+The project was completed in 24 hours as part of HackUNT-19, the University of North Texas's annual Hackathon. You can view the project demo on [YouTube](http://bit.ly/30xYgT8).
 
 ## Table of contents
 * [General info](#general-info)
@@ -34,7 +34,7 @@ We wanted to make it easy for 70 million deaf people across the world to be inde
 ![Example screenshot](./img/demo3.gif)
 
 
-**The entire demo of the project can be found on [YouTube](http://bit.ly/2Iaz2UK).**
+**The entire demo of the project can be found on [YouTube](http://bit.ly/30xYgT8).**
 
 
 ## Screenshots
@@ -161,7 +161,7 @@ Features that can be added:
 * Add more sign languages
 
 ## Status
-Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You can find the our final submission post on [devpost](http://bit.ly/2WWllwg). 
+Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You can find the our final submission post on [devpost](http://bit.ly/2QeITdz). 
 
 ## Contact
 Created by me with my teammates [Siddharth Oza](https://github.com/siddharthoza), [Ashish Sharma](https://github.com/ashish1993utd), and [Manish Shukla](https://github.com/Manishms18).
