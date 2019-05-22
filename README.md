@@ -1,8 +1,8 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)
-![Language]https://img.shields.io/github/languages/top/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg
+![Language](https://img.shields.io/github/languages/top/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)
 [![GitHub](https://img.shields.io/github/license/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)](https://choosealicense.com/licenses/mit)
 [![HitCount](http://hits.dwyl.io/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)](http://hits.dwyl.io/harshbg/Sign-Language-Interpreter-using-Deep-Learning)
-![RepoSize]https://img.shields.io/github/repo-size/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg?color=yellow
+![RepoSize](https://img.shields.io/github/repo-size/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg?color=yellow)
 
 # Sign Language Interpreter using Deep Learning
 > A sign language interpreter using live video feed from the camera. 
