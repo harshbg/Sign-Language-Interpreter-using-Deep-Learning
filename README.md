@@ -1,8 +1,12 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)
 ![Language](https://img.shields.io/github/languages/top/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)
 [![GitHub](https://img.shields.io/github/license/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)](https://choosealicense.com/licenses/mit)
-[![HitCount](http://hits.dwyl.io/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)](http://hits.dwyl.io/harshbg/Sign-Language-Interpreter-using-Deep-Learning)
 ![RepoSize](https://img.shields.io/github/repo-size/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg?color=yellow)
+![Stars](https://img.shields.io/github/stars/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg?style=social)
+![Forks](https://img.shields.io/github/forks/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg?style=social)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](http://bit.ly/2M0s0Vu)
+[![HitCount](http://hits.dwyl.io/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)](http://hits.dwyl.io/harshbg/Sign-Language-Interpreter-using-Deep-Learning)
+
 
 # Sign Language Interpreter using Deep Learning
 > A sign language interpreter using live video feed from the camera. 
@@ -175,4 +179,6 @@ just want to shoot a question, please feel free to connect with me on <a href="h
 <a href="http://bit.ly/2CZv1i5" target="_blank">Twitter</a>. 
 My other projects can be found [here](http://bit.ly/2UlyFgC).
 
-[![HitCount](https://img.shields.io/github/followers/harshbg.svg?style=social)](http://hits.dwyl.io/harshbg/Sign-Language-Interpreter-using-Deep-Learning)
+[![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](http://bit.ly/2HYQaL1)
+[![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](http://bit.ly/2VHxROX)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](http://bit.ly/2M0s0Vu)
