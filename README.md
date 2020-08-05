@@ -39,7 +39,7 @@ We wanted to make it easy for 70 million deaf people across the world to be inde
 ![Example screenshot](./img/demo3.gif)
 
 
-**The entire demo of the project can be found on [YouTube](https://link.harshgupta.com/17c2c).**
+**The entire demo of the project can be found on [YouTube](https://link.harshgupta.com/acd72).**
 
 
 ## Screenshots
@@ -166,7 +166,7 @@ Features that can be added:
 * Add more sign languages
 
 ## Status
-Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You can find the our final submission post on [devpost](https://link.harshgupta.com/754c5). If you would like us to implement the project end-to-end for you please book a [session](https://link.harshgupta.com/5e580). 
+Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You can find the our final submission post on [devpost](https://rebrand.ly/754c5). If you would like us to implement the project end-to-end for you please book a [session](https://link.harshgupta.com/5e580). 
 
 ## Contact
 Created by me with my teammates [Siddharth Oza](https://github.com/siddharthoza), [Ashish Sharma](https://github.com/ashish1993utd), and [Manish Shukla](https://github.com/Manishms18).
