@@ -1,4 +1,6 @@
-import cv2, os, random
+import cv2
+import os 
+import random
 import numpy as np
 
 def get_image_size():
