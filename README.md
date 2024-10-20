@@ -4,6 +4,7 @@
 ![Language](https://img.shields.io/github/languages/top/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)
 [![GitHub](https://img.shields.io/github/license/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)](https://choosealicense.com/licenses/mit)
 [![HitCount](http://hits.dwyl.io/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)](http://hits.dwyl.io/harshbg/Sign-Language-Interpreter-using-Deep-Learning)
+![Views](https://komarev.com/ghpvc/?username=harshbg&color=yellow)
 
 
 # Sign Language Interpreter using Deep Learning
