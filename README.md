@@ -171,6 +171,8 @@ Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You ca
 ## Contact
 Created by me with my teammates [Siddharth Oza](https://github.com/siddharthoza), [Ashish Sharma](https://github.com/ashish1993utd), and [Manish Shukla](https://github.com/Manishms18).
 
+Subscribe to my [newsletter](https://upswing.substack.com/) and unlock the secrets to becoming a 10X Data Scientist! 
+
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
 just want to shoot a question, please feel free to connect with me on <a href="hello@harshgupta.com" target="_blank">email</a>, 
 <a href="https://link.harshgupta.com/c9a5b" target="_blank">LinkedIn</a>, or 
