@@ -75,7 +75,7 @@ This will help you in installing all the libraries required for the project.
 ## Code Examples
 
 ````
-# Model Traiining using CNN
+# Model Training using CNN
 
 import numpy as np
 import pickle
