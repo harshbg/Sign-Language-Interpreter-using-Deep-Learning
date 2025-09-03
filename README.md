@@ -20,6 +20,7 @@ The project was completed in 24 hours as part of HackUNT-19, the University of N
 * [Code Examples](#code-examples)
 * [Features](#features)
 * [Status](#status)
+* [Citation](#citation)
 * [Contact](#contact)
 
 ## General info
@@ -170,6 +171,20 @@ Features that can be added:
 
 ## Status
 Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You can find the our final submission post on [devpost](https://rebrand.ly/754c5). 
+
+## Citation
+
+````
+@misc{shuklaSignLanguageInterpreter2025,
+  title        = {Sign Language Interpreter Using Deep Learning},
+  author       = {Shukla, Manish and Gupta, Harsh and Sharma, Ashish},
+  year         = 2025,
+  howpublished = {\url{https://doi.org/10.21203/rs.3.rs-7465375/v1}},
+  note         = {Preprint posted on Research Square (Version 1). Licensed under CC BY 4.0},
+}
+````
+
+Shukla, M., Gupta, H., & Sharma, A. (2025). Sign Language Interpreter Using Deep Learning [Preprint]. Research Square. https://doi.org/10.21203/rs.3.rs-7465375/v1
 
 ## Contact
 Created by me with my teammates [Siddharth Oza](https://github.com/siddharthoza), [Ashish Sharma](https://github.com/ashish1993utd), and [Manish Shukla](https://github.com/Manishms18).
