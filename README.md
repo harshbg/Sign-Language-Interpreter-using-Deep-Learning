@@ -61,7 +61,7 @@ We wanted to make it easy for 70 million deaf people across the world to be inde
 
 * Use comand promt to setup environment by using install_packages.txt and install_packages_gpu.txt files. 
  
-`pyton -m pip r install_packages.txt`
+`python -m pip r install_packages.txt`
 
 This will help you in installing all the libraries required for the project.
 
