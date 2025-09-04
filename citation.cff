@@ -1,0 +1,12 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Shukla
+    given-names: Manish
+    orcid: https://orcid.org/0009-0005-1093-5816
+  - family-names: Gupta
+    given-names: Harsh
+title: "Sign Language Interpreter using Deep Learning"
+version: v1.0
+date-released: 2025-08-19
+doi: 10.5281/zenodo.16906268
