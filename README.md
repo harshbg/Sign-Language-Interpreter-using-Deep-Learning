@@ -20,6 +20,7 @@ The project was completed in 24 hours as part of HackUNT-19, the University of N
 * [Code Examples](#code-examples)
 * [Features](#features)
 * [Status](#status)
+* [Future Work](#future-work)
 * [Citation](#citation)
 * [Contact](#contact)
 
@@ -171,6 +172,9 @@ Features that can be added:
 
 ## Status
 Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You can find the our final submission post on [devpost](https://rebrand.ly/754c5). 
+
+## Future Work
+Link for future Github repo : https://github.com/Manishms18/Sign-Language-Advance
 
 ## Citation
 
