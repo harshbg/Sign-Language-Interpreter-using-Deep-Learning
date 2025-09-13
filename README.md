@@ -1,6 +1,14 @@
+![Stars](https://img.shields.io/github/stars/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg?style=social)
+![Forks](https://img.shields.io/github/forks/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)
+![Language](https://img.shields.io/github/languages/top/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)
+[![GitHub](https://img.shields.io/github/license/harshbg/Sign-Language-Interpreter-using-Deep-Learning.svg)](https://choosealicense.com/licenses/mit)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fharshbg%2FSign-Language-Interpreter-using-Deep-Learning&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
 # Sign Language Interpreter using Deep Learning
 > A sign language interpreter using live video feed from the camera. 
-The project was completed in 24 hours as part of HackUNT-19, the University of North Texas's annual Hackathon. You can view the project demo on [YouTube](http://bit.ly/2Iaz2UK).
+The project was completed in 24 hours as part of HackUNT-19, the University of North Texas's annual Hackathon. You can view the project demo on [YouTube](https://link.harshgupta.com/acd72). 
 
 ## Table of contents
 * [General info](#general-info)
@@ -12,6 +20,8 @@ The project was completed in 24 hours as part of HackUNT-19, the University of N
 * [Code Examples](#code-examples)
 * [Features](#features)
 * [Status](#status)
+* [Future Work](#future-work)
+* [Citation](#citation)
 * [Contact](#contact)
 
 ## General info
@@ -31,7 +41,10 @@ We wanted to make it easy for 70 million deaf people across the world to be inde
 ![Example screenshot](./img/demo3.gif)
 
 
-**The entire demo of the project can be found on [YouTube](http://bit.ly/2Iaz2UK).**
+![Example screenshot](./img/demo5.gif)
+
+
+**The entire demo of the project can be found on [YouTube](https://link.harshgupta.com/acd72).**
 
 
 ## Screenshots
@@ -158,13 +171,36 @@ Features that can be added:
 * Add more sign languages
 
 ## Status
-Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You can find the our final submission post on [devpost](http://bit.ly/2WWllwg). 
+Project is: _finished_. Our team was the winner of the UNT Hackaton 2019. You can find the our final submission post on [devpost](https://rebrand.ly/754c5). 
+
+## Future Work
+Link for future Github repo : https://github.com/Manishms18/Sign-Language-Advance
+
+## Citation
+
+````
+@misc{shuklaSignLanguageInterpreter2025,
+  title        = {Sign Language Interpreter Using Deep Learning},
+  author       = {Shukla, Manish and Gupta, Harsh and Sharma, Ashish},
+  year         = 2025,
+  howpublished = {\url{https://doi.org/10.21203/rs.3.rs-7465375/v1}},
+  note         = {Preprint posted on Research Square (Version 1). Licensed under CC BY 4.0},
+}
+````
+
+Shukla, M., Gupta, H., & Sharma, A. (2025). Sign Language Interpreter Using Deep Learning [Preprint]. Research Square. https://doi.org/10.21203/rs.3.rs-7465375/v1
 
 ## Contact
 Created by me with my teammates [Siddharth Oza](https://github.com/siddharthoza), [Ashish Sharma](https://github.com/ashish1993utd), and [Manish Shukla](https://github.com/Manishms18).
 
+Subscribe to my [newsletter](https://upswing.substack.com/) and unlock the secrets to becoming a 10X Data Scientist! 
+
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
-just want to shoot a question, please feel free to connect with me on <a href="hello@gupta-harsh.com" target="_blank">email</a>, 
-<a href="http://bit.ly/2uOIUeo" target="_blank">LinkedIn</a>, or 
-<a href="http://bit.ly/2CZv1i5" target="_blank">Twitter</a>. 
-My other projects can be found [here](http://bit.ly/2UlyFgC).
+just want to shoot a question, please feel free to connect with me on <a href="hello@harshgupta.com" target="_blank">email</a>, 
+<a href="https://link.harshgupta.com/c9a5b" target="_blank">LinkedIn</a>, or 
+<a href="https://link.harshgupta.com/34c63" target="_blank">Twitter</a>. 
+My other projects can be found [here](https://link.harshgupta.com/85f2e).
+
+[![GitHub](https://img.shields.io/github/followers/harshbg.svg?style=social)](https://link.harshgupta.com/e144a)
+[![Twitter](https://img.shields.io/twitter/follow/harshbg.svg?style=social)](https://link.harshgupta.com/34c63)
+
